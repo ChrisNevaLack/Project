@@ -37,7 +37,6 @@
     
   }
   #about-me-info{
-    text-shadow: 5px;
     display:flex;
     flex-direction:column;
     gap:20px;
